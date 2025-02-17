@@ -1,0 +1,15 @@
+# Amigo Secreto
+
+Este é um aplicativo simples de "Amigo Secreto" desenvolvido em HTML, CSS e JavaScript. O aplicativo permite que os usuários adicionem nomes de amigos e realizem um sorteio para determinar quem é o amigo secreto de cada um.
+
+## Funcionalidades
+
+- Adicione o nome de amigos a uma lista.
+- Faça o sorteio dos amigos secretos garantindo que ninguém seja sorteado para si mesmo.
+- Exiba os resultados do sorteio.
+
+## Tecnologias Utilizadas
+
+- **HTML**: Estrutura básica da aplicação.
+- **CSS**: Estilização da interface.
+- **JavaScript**: Lógica para gerenciar a lista de amigos e o sorteio.
